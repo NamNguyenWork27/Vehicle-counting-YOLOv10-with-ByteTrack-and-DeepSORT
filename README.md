@@ -2,7 +2,7 @@
 
 This project focuses on object counting and multi-object tracking in real time using YOLOv10 for high-performance object detection, combined with ByteTrack and DeepSORT for robust and accurate object tracking across video frames
 
-![tracking_demo](Images\Tracking.png)
+![tracking_demo](Images/Tracking.png)
 
 # Libraries
 - Ultralytics
@@ -28,11 +28,11 @@ I build a video-based vehicle counting and tracking system, applying modern tech
 
 **With DeepSort**
 
-![result_DeepSort](Images\result_Deepsort.png)
+![result_DeepSort](Images/result_Deepsort.png)
 
 
 **With ByteTrack**
 
-![result_ByteTrack](Images\Result_ByteTrack.png)
+![result_ByteTrack](Images/Result_ByteTrack.png)
 
 
